@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Eyobalex&theme=dark)](https://git.io/streak-stats)
+ 
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Eyobalex&theme=dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Eyobalex)](https://git.io/streak-stats)

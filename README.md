@@ -1,7 +1,3 @@
-You are absolutely right. The previous output had malformed links (wrapping the image URLs in search queries) and incorrect Markdown syntax (escaping the exclamation marks).
-
-Here is the **corrected, clean Markdown code**. You can copy and paste this directly into your `README.md` file, and the badges and stats will render as actual images.
-
 # Hi there, I'm Eyob Alemayehu 👋
 
 ### Full Stack Software Engineer | Laravel & React Specialist

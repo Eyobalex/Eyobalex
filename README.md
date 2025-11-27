@@ -1,4 +1,4 @@
-# Hi there, I'm Eyob Alemayehu 👋
+<!--# Hi there, I'm Eyob Alemayehu 👋
 
 ### Full Stack Software Engineer | Laravel & React Specialist
 
@@ -37,6 +37,8 @@ My unique value lies in combining **international operational discipline** (gain
 \!([https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/AWS-%2523FF9900.svg%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite))
 
 -----
+
+-->
 
 ### 📊 GitHub Stats
 

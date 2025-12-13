@@ -40,6 +40,38 @@ My unique value lies in combining **international operational discipline** (gain
 
 -->
 
+**Full stact Software Engineer With 4+ years of professional experience.**
+
+Notable experiences include:
+
+👨‍💻 Languages: PHP, JavaScript, TypeScript
+
+🔥 Frameworks: Laravel, React, Next.js, Node.js, Express, Lumen, React Native
+
+📡 Transport Proto's: RESTful APIs, GraphQL, Webhooks
+
+💽 Databases: MySQL, PostgreSQL
+
+💾 NoSQL: MongoDB
+
+📼 State & Cache: Redis, Redux Toolkit, RTK Query
+
+🧪 Testing: PHPUnit, Postman API Testing
+
+🔗 3rd APIs: Stripe, Chapa, Telebirr, Algolia, Google Maps
+
+🏠 Arch Patterns: MVC, Monolithic, Decoupled/Headless, Service-Oriented
+
+🐁 Design Patterns: Repository Pattern, Service Layer, OOP, SOLID Principles
+
+🔨 Tools: Git, Docker, AWS (EC2, S3), Jira, Trello, Linux
+
+🎯 Interested in: Fintech Solutions, E-commerce Architecture, Logistics Systems, Scalable Cloud Infrastructure
+
+🔥 Value Proposition: Combining international standards with the agility to ship products that solve real operational bottlenecks.
+
+🤝 Looking forward to working with you on your exciting projects :)
+
 ### 📊 GitHub Stats
 
 \<p align="center"\>

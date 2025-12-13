@@ -40,7 +40,7 @@ My unique value lies in combining **international operational discipline** (gain
 
 -->
 
-**Full stact Software Engineer With 4+ years of professional experience.**
+### Full stact Software Engineer With 4+ years of professional experience.
 
 Notable experiences include:
 
@@ -72,6 +72,10 @@ Notable experiences include:
 
 🤝 Looking forward to working with you on your exciting projects :)
 
+-----
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Eyobalex&theme=dark)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Eyobalex)](https://git.io/streak-stats) -->
 
 -----
 
@@ -82,5 +86,4 @@ I am always open to discussing new projects, creative ideas, or opportunities to
   - 💼 **LinkedIn:** [linkedin.com/in/eyobalemayehu](https://www.linkedin.com/in/eyobalemayehu/)
   - 🌐 **Portfolio:** [eyobalex.netlify.app](https://eyobalex.netlify.app/)
   - 📧 **Email:** eyobalemayehu007@gmail.com
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Eyobalex&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Eyobalex)](https://git.io/streak-stats)
+

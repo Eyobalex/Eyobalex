@@ -72,12 +72,6 @@ Notable experiences include:
 
 🤝 Looking forward to working with you on your exciting projects :)
 
-### 📊 GitHub Stats
-
-\<p align="center"\>
-\<img src="[https://github-readme-stats.vercel.app/api?username=Eyobalex\&show\_icons=true\&theme=dark\&hide\_border=true\&bg\_color=0D1117](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DEyobalex%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D0D1117)" alt="Eyob's GitHub Stats" /\>
-\<img src="[https://streak-stats.demolab.com/?user=Eyobalex\&theme=dark\&hide\_border=true\&background=0D1117](https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3DEyobalex%26theme%3Ddark%26hide_border%3Dtrue%26background%3D0D1117)" alt="Eyob's Streak" /\>
-\</p\>
 
 -----
 
@@ -88,5 +82,5 @@ I am always open to discussing new projects, creative ideas, or opportunities to
   - 💼 **LinkedIn:** [linkedin.com/in/eyobalemayehu](https://www.linkedin.com/in/eyobalemayehu/)
   - 🌐 **Portfolio:** [eyobalex.netlify.app](https://eyobalex.netlify.app/)
   - 📧 **Email:** eyobalemayehu007@gmail.com
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Eyobalex&theme=dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Eyobalex&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Eyobalex)](https://git.io/streak-stats)

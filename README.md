@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer | Laravel & React Specialist
 
-I am a software engineer with **4+ years of experience** building scalable web and mobile applications for the e-commerce, logistics, and telehealth industries. I specialize in bridging the gap between complex backend logic and intuitive frontend design.
+I am a software engineer with **5+ years of experience** building scalable web and mobile applications for the e-commerce, logistics, and telehealth industries. I specialize in bridging the gap between complex backend logic and intuitive frontend design.
 
 My unique value lies in combining **international operational discipline** (gained from working with German and US consulting firms) with **startup resourcefulness** (demonstrated by leading critical local projects).
 
